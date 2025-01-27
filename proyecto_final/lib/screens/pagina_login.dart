@@ -33,7 +33,7 @@ class _LoginState extends State<LoginPage> {
               Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
-                  "Memoriza las Cartas",
+                  "Memorama card",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 36,
